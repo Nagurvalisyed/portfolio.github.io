@@ -5,18 +5,17 @@
   .bb{
    background-color: rgb(93, 193, 220);
   }
-  .ta{
-    font-size: 15px;
-    color: red;
-    font-style : arial;
-
-  }
   .one{
    width: 30px;
    height: 30px;
    opacity: .8;
    line-height: 40px ;
    text-decoration: none;
+  }
+  .ta{
+    font-size: 15px;
+    color: red;
+    font-style : arial;
   }
   .three{
    width: 120px;
@@ -29,7 +28,7 @@
    float: left;
    width: 140px;
    height: 40px;
-   background-color :white;
+   background-color: white;
    font-size: 20px;
    text-align: center;
    line-height: 40px ;
@@ -80,7 +79,7 @@
   }
   .video{
    position: absolute; 
-   top : 240px; 
+   top: 240px; 
    left: 680px;
   }
   .video1{
@@ -122,5 +121,5 @@
    left: 29%;
    padding: 10px 10px;
    font-size: 18px;
-   font-weight :bolder;
+   font-weight: bolder;
   }
